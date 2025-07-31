@@ -5,10 +5,17 @@
 ✨ Features
 
 ✅ Built with Tailwind CSS (no frameworks)
+
 ✅ Fully responsive design (mobile-friendly)
+
 ✅ Modern layout with smooth hover & transition effects
+
 ✅ Hero section with bold title, subtitle, and CTA buttons
+
 ✅ About Me section with profile, bio, and skill badges
+
 ✅ Project cards with live demo and GitHub links
+
 ✅ Contact form layout (frontend only)
+
 ✅ Footer with social icons and copyright
